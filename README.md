@@ -3,4 +3,6 @@
 To run:
 
 
-git clone 
+    git clone https://github.com/okmanl/totp-example.git
+
+    npm run dev
